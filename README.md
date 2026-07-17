@@ -186,8 +186,6 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 ![Trader — Profile](screenshots/trader-profile.png)
 *Trader account management form*
 
-> **Note:** To populate the screenshots above, export the images from the project report and place them in `screenshots/` using the filenames shown.
-
 ---
 
 ## UML Diagrams
