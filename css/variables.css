@@ -1,0 +1,8 @@
+body{
+    --couleur-primaire: #000; 
+    --couleur-bg: #fff;
+}
+body.dark{
+    --couleur-primaire: #fff; 
+    --couleur-bg: #000;
+}

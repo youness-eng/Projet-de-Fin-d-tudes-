@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+*,*::before,*::after
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    width: 40vw;
+}
+.titre{
+    margin-bottom: 4vh;
+}
+div{
+    font-size: 1.2rem;
+}
+.btnSupp,
+.btnAnn{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background-color: #333;
+    border: none;
+    outline: none;
+    border-radius: 49px;
+    color: var(--couleur-bg);
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 0 2vw;
+    margin-top: 5vh;
+    cursor: pointer;
+    transition: 0.5s;
+    padding: 10px 20px; 
+    font-size: 25px; 
+    width: 106px;
+}
+.btnAnn:hover {
+    background-color: black;
+}
+#supp{
+    background-color: red;
+    transition: 0.5s;
+}
+#supp:hover{
+    background-color: rgb(255, 79, 79);
+}

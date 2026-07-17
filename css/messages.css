@@ -1,0 +1,18 @@
+.contenu{
+    position: absolute;
+    top:58%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.aucun-message{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 7vh;
+}
+.pas-offre,
+.pas-message,
+.image
+{
+    width: 70vw;
+    height: 60vh;
+}

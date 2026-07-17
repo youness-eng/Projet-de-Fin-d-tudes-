@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.chercher{
+    font-family: 'Poppins', sans-serif;
+    padding: 5vw 7vw;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    --couleur-primaire: #000;
+    --couleur-bg: #fff;
+}
+.chercher-titre{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.chercher-description{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.lien-chercher
+{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 300;
+    color: var(--couleur-bg);
+    background-color: var(--couleur-primaire);
+    padding: 8px 18px;
+    border-radius: 50px;
+    border: 1px solid var(--couleur-primaire);
+    transition: all 250ms ease-in-out;
+    align-items: center;
+    cursor: pointer;
+    outline: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.lien-chercher:hover{
+    color: var(--couleur-primaire);
+    background-color: var(--couleur-bg);
+    border: 1px solid var(--couleur-primaire);
+}
+.chercher svg{
+    width: 50vw;
+    height: 40vh;
+}
+
+
+@media all and (max-width: 550px){
+    .chercher{
+        min-height: 30vh;
+        justify-content: center;
+        text-align: center;
+    }
+    .chercher-titre{
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .chercher-description{
+        font-size: 15px;
+    }
+    .lien-chercher,
+    .lien-deconn
+    {
+        font-size: 15px;
+        padding: 6px 14px;
+    }
+}
