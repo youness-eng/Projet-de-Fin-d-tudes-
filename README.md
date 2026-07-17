@@ -119,8 +119,8 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 
 | Role | Login | Password |
 |---|---|---|
-| Administrator | admin | (set during import) |
-| Trader | youness | (set during import) |
+| Administrator | admin | admin |
+| Trader | youness | youness |
 
 ---
 
@@ -130,6 +130,9 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 ![Homepage Hero](rapport/screenshots/homepage-hero.png)
 *Landing page with "Commencer à troquer" call to action and search button — Barterology branding*
 
+![Homepage Dark Theme](rapport/screenshots/homepage-dark-theme.png)
+*Landing page dark theme version showcasing Barterology branding, hero section, and navigation elements*
+
 ![How It Works](rapport/screenshots/homepage-how-it-works.png)
 *Explainer section describing how to post and search for barter offers*
 
@@ -137,9 +140,15 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 ![Login and Registration](rapport/screenshots/auth.png)
 *Split-panel login and registration page with dark theme*
 
+![Registration](rapport/screenshots/registration.png)
+*New trader registration form allowing customers to create an account with personal information and login credentials*
+
 ### Offer Search
 ![Offer Search Page](rapport/screenshots/offer-search.png)
 *Browseable offer catalogue with type filter (Tous / Bien / Service), category cards, and keyword search*
+
+![Offer Search Cards](rapport/screenshots/offer-search-cards.png)
+*Offer catalogue displayed in card style with product details revealed on hover and interactive browsing experience*
 
 ### Contact Page
 ![Contact Page](rapport/screenshots/contact.png)
