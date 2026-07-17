@@ -76,7 +76,7 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 │   ├── css/                   # Stylesheets and responsive design
 │   ├── js/                    # Client-side JavaScript and jQuery logic
 │   └── images/                # Offer images, logos, and UI assets
-└── rapport/                   # Final-year project report, UML diagrams, and data models
+└──                    # Final-year project report, UML diagrams, and data models
 ```
 
 ---
@@ -127,66 +127,66 @@ Relationships were designed using a Conceptual Data Model (MCD) and subsequently
 ## Screenshots
 
 ### Public Homepage
-![Homepage Hero](rapport/screenshots/homepage-hero.png)
+![Homepage Hero](screenshots/homepage-hero.png)
 *Landing page with "Commencer à troquer" call to action and search button — Barterology branding*
 
-![Homepage Dark Theme](rapport/screenshots/homepage-dark-theme.png)
+![Homepage Dark Theme](screenshots/homepage-dark-theme.png)
 *Landing page dark theme version showcasing Barterology branding, hero section, and navigation elements*
 
-![How It Works](rapport/screenshots/homepage-how-it-works.png)
+![How It Works](screenshots/homepage-how-it-works.png)
 *Explainer section describing how to post and search for barter offers*
 
 ### Authentication
-![Login and Registration](rapport/screenshots/auth.png)
+![Login and Registration](screenshots/auth.png)
 *Split-panel login and registration page with dark theme*
 
-![Registration](rapport/screenshots/registration.png)
+![Registration](screenshots/registration.png)
 *New trader registration form allowing customers to create an account with personal information and login credentials*
 
 ### Offer Search
-![Offer Search Page](rapport/screenshots/offer-search.png)
+![Offer Search Page](screenshots/offer-search.png)
 *Browseable offer catalogue with type filter (Tous / Bien / Service), category cards, and keyword search*
 
-![Offer Search Cards](rapport/screenshots/offer-search-cards.png)
+![Offer Search Cards](screenshots/offer-search-cards.png)
 *Offer catalogue displayed in card style with product details revealed on hover and interactive browsing experience*
 
 ### Contact Page
-![Contact Page](rapport/screenshots/contact.png)
+![Contact Page](screenshots/contact.png)
 *Contact form for anonymous visitors to reach the administrator*
 
 ### Administrator Dashboard
-![Admin — Offer Management](rapport/screenshots/admin-offers.png)
+![Admin — Offer Management](screenshots/admin-offers.png)
 *Admin offer management panel with filter and card grid display*
 
-![Admin — Messages](rapport/screenshots/admin-messages.png)
+![Admin — Messages](screenshots/admin-messages.png)
 *Inbox table showing email, date, subject, message preview, and action controls*
 
-![Admin — User Management](rapport/screenshots/admin-users.png)
+![Admin — User Management](screenshots/admin-users.png)
 *Registered trader table with name, email, phone, city, login, and CRUD actions*
 
-![Admin — User Detail / Edit](rapport/screenshots/admin-user-detail.png)
+![Admin — User Detail / Edit](screenshots/admin-user-detail.png)
 *View and edit individual trader profiles*
 
-![Admin — Profile](rapport/screenshots/admin-profile.png)
+![Admin — Profile](screenshots/admin-profile.png)
 *Administrator account management form*
 
 ### Trader Dashboard
-![Trader — Offer Search](rapport/screenshots/trader-search.png)
+![Trader — Offer Search](screenshots/trader-search.png)
 *Trader homepage with offer search section*
 
-![Trader — Messages](rapport/screenshots/trader-messages.png)
+![Trader — Messages](screenshots/trader-messages.png)
 *Trader inbox and sent messages with reply and delete actions*
 
-![Trader — Post Offer](rapport/screenshots/trader-post-offer.png)
+![Trader — Post Offer](screenshots/trader-post-offer.png)
 *Offer submission form with title, type, category, description, image upload, and exchange wish field*
 
-![Trader — My Offers](rapport/screenshots/trader-my-offers.png)
+![Trader — My Offers](screenshots/trader-my-offers.png)
 *Personal offer management with edit and delete actions per listing*
 
-![Trader — Profile](rapport/screenshots/trader-profile.png)
+![Trader — Profile](screenshots/trader-profile.png)
 *Trader account management form*
 
-> **Note:** To populate the screenshots above, export the images from the project report and place them in `rapport/screenshots/` using the filenames shown.
+> **Note:** To populate the screenshots above, export the images from the project report and place them in `screenshots/` using the filenames shown.
 
 ---
 
